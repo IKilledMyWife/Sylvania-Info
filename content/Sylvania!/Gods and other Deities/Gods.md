@@ -26,3 +26,7 @@ Goddess of Darkness and Deception. If you've ever told a lie the Dior is smiling
 Goddess of War and Honor. Nulis loves to fight. War and honorable duels are her bread and butter. Duels are sworn to Nulis to honor fairness and most competitions credit Nulis as their patron. Nulis doesn't really care why the fight is happening or who it hurts and kills, only that it is fair.
 # Animeil
 Goddess of Animals and Nature. Animeil is the embodiment of nature conservation, and granted many animals humanoid forms and sentience after being forced to by Nulis after a duel. Her creations range from the Lizardfolk to the Harengons and everything in between. She despises industrialization and destruction of nature, regardless of its necessity for the progression of society.
+# Magius
+God of Magic. All forms of magic currently present in Sylvania owe their existence to Magius, who created the laws by which magical energy can manifest into spells. Magius encourages his followers to pursue magical innovation in all aspects regardless of the consequences. Many a magical calamity were caused by Magius' most devout followers.
+# Trios
+God of Triumph and Defeat. Trios is the idea of perseverance and grit. The unwillingness to give up and to push on and succeed at anything regardless of circumstance. He also however is the first to quit, to admit that the challenge is too much and allow himself to fail. Which of the two is present on any given day is a toss up, and many of his followers often find themselves comforting him during his days of defeat.

@@ -1,6 +1,6 @@
 ---
 title: Session 1
-draft: false
+draft: true
 tags:
 ---
  
@@ -21,12 +21,22 @@ tags:
 
 
 ## Current Quests/Threads
-- Stuff
+- Reach the Island of Essia
+	- Reach the city of Thult
+- Locate the missing guide
+- Find the Artifact located on the island of Essia
+	- Ask around the island about the artifact's location
+	- Ask around the city of Thult for information regarding the missing artifact
+- Deliver the package to the Earl of Essia
 
 
 ## Info Party knows
-- Stuff 2
+- There is an artifact on the Island of Essia.
+- The party has been contracted by the Merchant Kingdom of Wartontia to recover the artifact and bring it to them.
+- 
 
 ## Expected NPCs
-- ME :)
+- Earl Hadar Mosial 
+- Meri Cold-Bones
+- Guard captain Voros
 
