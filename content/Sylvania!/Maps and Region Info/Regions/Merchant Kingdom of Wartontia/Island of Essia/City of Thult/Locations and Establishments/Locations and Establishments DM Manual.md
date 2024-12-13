@@ -1,6 +1,6 @@
 ---
 title: Locations and Establishments
-draft: false
+draft: true
 tags:
 ---
  
