@@ -3,6 +3,8 @@ title: Guard Captain Voros
 draft: true
 tags:
 ---
+![[OIG2.jpg]]
+
 # Physical Description
 Voros is a tall, imposing half-orc with a muscular frame, green-tinged skin, and sharp tusks that protrude from his lower jaw. His dark hair is kept short, and his piercing yellow eyes are always alert, scanning his surroundings with a keen, tactical mind. Wearing a mix of polished armor and weathered leather, Voros exudes authority, his presence commanding respect from both his subordinates and the people of Thult
 

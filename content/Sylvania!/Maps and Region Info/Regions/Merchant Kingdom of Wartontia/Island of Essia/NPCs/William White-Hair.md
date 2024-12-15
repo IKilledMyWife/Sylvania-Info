@@ -3,7 +3,7 @@ title: William White-Hair
 draft: true
 tags:
 ---
- 
+![[OIG4.jpg]]
 
 # Physical Description
 William White-Hair is a dashing young pirate with an air of charisma as sharp as his blade. His signature platinum-blond hair, always slightly windswept, gives him a striking appearance that matches his larger-than-life reputation.

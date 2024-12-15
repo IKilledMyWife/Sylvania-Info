@@ -35,6 +35,7 @@ Founded almost 1000 years prior during the first large scale settlementations of
 
 ## Thult Merchant District
 ![[360_F_964928612_Q7IeF4ReVnnbDya2qa0P81YWKBgbXhHs.jpg]]
+
 Wanna buy imported weapons? How about some exotic spices? Perhaps a new suit for that important trade deal you're negotiating? If you need it the Merchant District of Thult likely has it. This single district often has more money flow through it on a given day than the rest of the entire island combined. People from all walks of life and regions of the world gather in this district during their stay in Thult to buy and sell services and goods galore.
 
 ## Blue Quarter

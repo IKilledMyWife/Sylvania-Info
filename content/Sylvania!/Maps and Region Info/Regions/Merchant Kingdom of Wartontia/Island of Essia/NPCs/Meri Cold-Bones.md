@@ -3,6 +3,9 @@ title: Meri Cold-Bones
 draft: true
 tags:
 ---
+
+![[OIG2.yOAO0rAAb..jpg]]
+
 # Physical Description
 Meri Cold-Bones is a lithe and elegant elven scholar with silvery-white hair tied in intricate braids, skin as pale as moonlight, and sharp, piercing blue eyes that seem to carry the weight of centuries.
 
