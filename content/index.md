@@ -6,7 +6,7 @@ If you are on PC there should be a drop-down menu on the left panel which will a
 
 # Quicklinks
 
-- **[[Gods|Gods]]
+- **[[Gods|Gods]]**
 - **[[Deities and other Powerful figures|Powerful Deities]]**
 - **[[Region Quicklinks|Regions]]**
 - **[[Party Quicklinks|Party Info]]**
